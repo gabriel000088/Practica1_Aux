@@ -1,0 +1,13 @@
+C:\Users\Equipo_Adm\Desktop\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
+C:\Users\Equipo_Adm\Desktop\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\Equipo_Adm\Desktop\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\Equipo_Adm\Desktop\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\Equipo_Adm\Desktop\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
+E:\VisualCode\Ejercicio2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+E:\VisualCode\Ejercicio2\Ejemplo2\bin\Debug\Ejemplo2.exe
+E:\VisualCode\Ejercicio2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+E:\VisualCode\Ejercicio2\Ejemplo2\obj\Debug\Ejemplo2.csproj.AssemblyReference.cache
+E:\VisualCode\Ejercicio2\Ejemplo2\obj\Debug\Ejemplo2.csproj.SuggestedBindingRedirects.cache
+E:\VisualCode\Ejercicio2\Ejemplo2\obj\Debug\Ejemplo2.csproj.CoreCompileInputs.cache
+E:\VisualCode\Ejercicio2\Ejemplo2\obj\Debug\Ejemplo2.exe
+E:\VisualCode\Ejercicio2\Ejemplo2\obj\Debug\Ejemplo2.pdb

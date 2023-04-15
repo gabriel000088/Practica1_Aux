@@ -1,0 +1,11 @@
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.SuggestedBindingRedirects.cache
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.Form1.resources
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.Properties.Resources.resources
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.GenerateResource.cache
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb
+E:\VisualCode\Practica1_AuxSis\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb

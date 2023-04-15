@@ -1,0 +1,8 @@
+E:\VisualCode\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+E:\VisualCode\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\VisualCode\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\VisualCode\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+E:\VisualCode\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.SuggestedBindingRedirects.cache
+E:\VisualCode\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+E:\VisualCode\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\VisualCode\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

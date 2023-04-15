@@ -1,0 +1,8 @@
+E:\VisualCode\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+E:\VisualCode\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+E:\VisualCode\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+E:\VisualCode\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+E:\VisualCode\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.SuggestedBindingRedirects.cache
+E:\VisualCode\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+E:\VisualCode\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+E:\VisualCode\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
