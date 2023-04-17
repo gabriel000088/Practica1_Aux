@@ -14,22 +14,22 @@ namespace Ejercicio4
             masc.nombre = "Fido";
             masc.edad = 3;
             masc.raza = "Poodle";
-            masc.sexo = 'M';
+            masc.sexo = "M";
 
             Mascota_Adoptada adop = new Mascota_Adoptada();
             adop.nombre = "Max";
-            adop.edad = 5;
+            adop.edad = 2;
             adop.raza = "Golden Retriever";
-            adop.sexo = 'M';
+            adop.sexo = "M";
             adop.nombre_dueno = "Juan Perez";
             adop.pago_mascota = 500;
             adop.fecha_adop = "31/03/2023"; //new DateTime(2023, 3, 31)
 
             Mascota_Perdida perd = new Mascota_Perdida();
             perd.nombre = "Lola";
-            perd.edad = 2;
-            perd.raza = "Bulldog";
-            perd.sexo = 'F';
+            perd.edad = 1;
+            perd.raza = "ChawChaw";
+            perd.sexo = "F";
             perd.motivo = "Escapó del jardín";
             perd.fecha_perdida = "01/03/2023";//new DateTime(2023, 4, 1)
 
@@ -38,7 +38,7 @@ namespace Ejercicio4
             misMascotas[1] = miMascotaAdoptada;
             misMascotas[2] = miMascotaPerdida;*/
 
-            Console.WriteLine("Mostrando mis mascotas:\n");
+            Console.WriteLine("--------Mostrando mis mascotas--------\n");
 
             //foreach (Mascota mascota in misMascotas)
             //{
@@ -46,6 +46,7 @@ namespace Ejercicio4
             adop.mostrar_mascota();
             perd.mostrar_mascota();
             //}
+            Console.ReadKey();
         }
     }
 }

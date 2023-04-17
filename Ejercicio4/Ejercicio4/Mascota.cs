@@ -9,15 +9,15 @@ namespace Ejercicio4
     
      public class Mascota
     {
-        public string nombre;
-        public int edad;
-        public string raza;
-        public char sexo;
+        public String nombre { get; set; }
+        public int edad { get; set; }
+        public String raza { get; set; }
+        public string sexo { get; set; }
+
 
         public virtual void mostrar_mascota()
         {
-            Console.WriteLine("---Mi Mascota---\nNombre: {0}\nEdad: {1}\nRaza: {2}\nSexo: {3}\n", nombre, edad, raza, sexo);
+            Console.WriteLine("---Mi Mascota---\nNombre:" + nombre + "\nEdad: " + edad + "\nRaza: " + raza + "\nSexo: " + sexo);
         }
-
     }
 }

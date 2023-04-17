@@ -8,12 +8,12 @@ namespace Ejercicio4
 {
     public class Mascota_Perdida:Mascota
     {
-        public string motivo;
-        public string fecha_perdida;
+        public string motivo { get; set; }
+        public string fecha_perdida { get; set; }
 
         public override void mostrar_mascota()
         {
-            Console.WriteLine("---Mascota Perdida---\n Nombre: {0}\nEdad: {1}\nRaza: {2}\nSexo: {3}\nMotivo: {4}\nFecha de Pérdida: {5}\n", nombre, edad, raza, sexo, motivo, fecha_perdida);
+            Console.WriteLine("\n---Mascota Perdida---"+"\nNombre: "+nombre+"\nEdad: "+edad+"\nRaza: "+raza+"\nSexo: "+sexo+"\nMotivo: "+motivo+"\nFecha de Pérdida: "+fecha_perdida);
         }
     }
 }
